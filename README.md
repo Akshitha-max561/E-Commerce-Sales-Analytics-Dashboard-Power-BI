@@ -1,35 +1,42 @@
 # E-Commerce-Sales-Analytics-Dashboard-Power-BI
 Interactive E-Commerce Sales Analytics Dashboard built using Microsoft Power BI to analyze sales, gross profit, profit margin, orders, units sold, product performance, category performance, and sales trends.
 
-📊 E-Commerce Sales Analytics Dashboard | Power BI
+📊 **E-Commerce Sales Analytics Dashboard | Power BI**
 
-I’m excited to share my E-Commerce Sales Analytics Dashboard, created using Power BI.
+🚀 **Project Overview**
 
-For this project, I started with data cleaning and preparation to make the dataset accurate and ready for analysis. After that, I used Power BI to transform the data, create calculated columns and DAX measures, and build an interactive dashboard.
+I developed an interactive E-Commerce Sales Analytics Dashboard using Microsoft Power BI to analyze sales performance, profitability, product trends, and country-wise business performance.
 
-🔍 What does this dashboard show?
+🎯 **Project Objective**
 
-The dashboard provides an overview of:
+The main objective of this project is to analyze e-commerce sales data, track key performance indicators (KPIs), identify top-performing products and categories, compare sales and profit across platforms, and understand monthly and country-wise performance to support data-driven business decisions.
+
+🔍 **Key Dashboard Features**
 
 💰 Total Sales
 📈 Gross Profit & Profit Margin
 📦 Units Sold
 🛒 Total Orders
-🌍 Global Sales Distribution
-🏷️ Sales by Category
-🛍️ Sales & Profit by Platform
-📅 Monthly Sales & Profit Trend
-🏆 Top 10 Products by Sales
-🌎 Country-wise Performance
+🏷️ Sales by Product Category
+🛍️ Sales & Profit by Platform — Shopify, eBay, and Amazon
+📅 Monthly Sales & Profit Margin Trends
+🏆 Product-wise Sales Performance
+🌍 Customer Distribution by Country
+📊 Country-wise Orders and Revenue Performance
 
-🛠️ Tools & Skills Used
+🛠️ **Tools & Technologies Used**
 
-Power BI | Power Query | Data Cleaning | Data Transformation | DAX | Data Visualization | Dashboard Design | Calendar Table
+▪️ Microsoft Power BI
+▪️ Power Query
+▪️ Data Cleaning & Transformation
+▪️ DAX Measures & Calculated Columns
+▪️ Calendar Table
+▪️ Data Visualization & Interactive Dashboard Design
 
-This project helped me improve my understanding of how raw e-commerce sales data can be transformed into meaningful business insights through data analytics and visualization.
+💡 **Key Learnings**
 
-It also helped me strengthen my understanding of DAX measures, calculated columns, KPIs, time-based analysis, product performance, category analysis, and interactive dashboard design.
+Through this project, I strengthened my practical understanding of data analysis, KPI development, DAX calculations, time-based analysis, and interactive visualizations. I also learned how to present sales data in a meaningful way to help understand business performance.
 
-I’m continuing to build more projects and strengthen my skills in Power BI and Data Analytics. 🚀
+I’m continuously learning and building projects to strengthen my skills in Data Analytics and Business Intelligence. 🚀
 
-#PowerBI #DataAnalytics #PowerBIProjects #DAX #DataVisualization #EcommerceAnalytics #BusinessIntelligence #DataAnalyst #Dashboard #PortfolioProject
+\#PowerBI #DataAnalytics #EcommerceAnalytics #PowerBIDashboard #DAX #BusinessIntelligence #DataAnalyst #DataVisualization #PortfolioProject
